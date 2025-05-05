@@ -1,6 +1,6 @@
 @echo off
 REM This script was created by David Burton (daviburt)
-title Outlook Hyperlink Fix - daviburt
+title Outlook Hyperlink Fix
 cls
 
 
