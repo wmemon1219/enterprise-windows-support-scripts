@@ -1,5 +1,5 @@
 @echo off
-title Fix Blank Icons in Your System Tray - daviburt
+title Fix Blank Icons in Your System Tray
 :START_ADMIN_CHECK
 CLS
 REM REVISED 5-30-18
