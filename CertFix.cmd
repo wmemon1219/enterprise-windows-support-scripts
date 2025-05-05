@@ -2,7 +2,7 @@
 
 cls
 
-title Cert getter - daviburt
+title Cert getter
 
 REM ipconfig /all | findstr /c:"Primary Dns Suffix" | findstr /c:ant.amazon.com > NUL
 REM if %errorlevel% equ 0 GOTO PING
