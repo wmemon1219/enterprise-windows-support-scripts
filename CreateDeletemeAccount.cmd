@@ -1,5 +1,5 @@
 @echo off
-title Create Deleteme Account - daviburt
+title Create Deleteme Account
 cls
 set accountname=deleteme
 set accountpw=
