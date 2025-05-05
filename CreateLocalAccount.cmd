@@ -1,5 +1,5 @@
 @echo off
-title Local account creator - daviburt
+title Local account creator
 :START_ADMIN_CHECK
 CLS
 REM REVISED 11-14-19
