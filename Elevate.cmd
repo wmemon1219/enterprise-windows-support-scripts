@@ -1,5 +1,5 @@
 @echo off
-title Ellavayshunn - daviburt
+title Ellavayshunn
 
 echo %username% | findstr /i thorpeb > NUL
 if %errorlevel% equ 0 exit
