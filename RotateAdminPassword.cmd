@@ -1,7 +1,7 @@
 @echo off
 CLS
 
-title Local Administrator password rotater -daviburt
+title Local Administrator password rotater
 rem https://share.amazon.com/sites/gits-kb/Pages/Windows/Rotating%20Window%20local%20administrator%20credentials.aspx
 
 REM SETTING VARIABLE FOR STOPPING THE SERVICES BELOW WHEN RAN THE FIRST TIME
