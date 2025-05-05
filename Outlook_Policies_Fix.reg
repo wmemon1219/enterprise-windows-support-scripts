@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.html]
+@="htmlfile"
+"Content Type"="text/html"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.htm]
+@="htmlfile"
+"Content Type"="text/html"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.shtm]
+@="htmlfile"
+"Content Type"="text/html"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.shtml]
+@="htmlfile"
+"Content Type"="text/html"
+"PerceivedType"="text"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\htmlfile\shell\open\command]
+@="\"C:\\Program Files\\Internet Explorer\\IEXPLORE.EXE\" -nohome"
