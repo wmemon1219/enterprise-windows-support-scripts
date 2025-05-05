@@ -1,6 +1,6 @@
 @echo off
 
-title Managing Bitlocker - daviburt
+title Managing Bitlocker
 :START_ADMIN_CHECK
 CLS
 REM REVISED 5-30-18
