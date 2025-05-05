@@ -1,5 +1,5 @@
 @echo off
-title SFC and DISM System Maintenance - daviburt
+title SFC and DISM System Maintenance
 :START_ADMIN_CHECK
 CLS
 REM REVISED 7-19-18
