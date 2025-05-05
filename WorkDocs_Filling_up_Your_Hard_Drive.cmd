@@ -1,7 +1,7 @@
 @echo off
 CLS
 
-TITLE WorkDocs Cache Cleaner - daviburt
+TITLE WorkDocs Cache Cleaner
 
 REM CHECKING FOR WORKDOCS
 if not exist "%programfiles%\Amazon\AWSWorkDocsDriveClient\AWSWorkDocsDriveClient.exe" (
