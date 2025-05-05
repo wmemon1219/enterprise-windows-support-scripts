@@ -1,5 +1,5 @@
 @echo off
-title Refresh Network Settings - daviburt
+title Refresh Network Settings
 
 :START_ADMIN_CHECK
 CLS
