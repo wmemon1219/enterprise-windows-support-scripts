@@ -1,5 +1,5 @@
 @echo off
-title Elevated Command Line - daviburt
+title Elevated Command Line
 
 :START_ADMIN_CHECK
 CLS
