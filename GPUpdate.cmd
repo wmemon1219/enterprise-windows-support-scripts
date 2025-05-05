@@ -1,7 +1,7 @@
 @echo off
 cls
 set counter=1
-title Certificate Getter - daviuburt
+title Certificate Getter
 
 for /f "tokens=4" %%I in ('net user /domain %username% ^| findstr /c:"Full Name"') do set "UsernameFirst=%%I"
 
