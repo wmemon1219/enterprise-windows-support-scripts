@@ -1,7 +1,7 @@
 @ECHO OFF
 :START_ADMIN_CHECK
 CLS
-title Wifi toggler - daviburt
+title Wifi toggler
 
 :PING
 cls
