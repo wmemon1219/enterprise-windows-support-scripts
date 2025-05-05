@@ -1,6 +1,6 @@
 :ASK
 @echo off
-title Daviburt's host pinger
+title host pinger
 
 set counter=1
 cls
