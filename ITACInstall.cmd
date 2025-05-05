@@ -1,7 +1,7 @@
 @echo off
 cls
 
-title IT Administrative Controls Installer - daviburt
+title IT Administrative Controls Installer
 
 :CHECKINGFORITAC
 if exist %temp%\checked GOTO START_ADMIN_CHECK
