@@ -1,5 +1,5 @@
 @echo off
-title Pause Bitlocker Until Rebooted - daviburt
+title Pause Bitlocker Until Rebooted 
 
 :START_ADMIN_CHECK
 CLS
