@@ -1,7 +1,7 @@
 @echo off
 cls
 
-title Outlook Rule Cleaner - lutzca with daviburt
+title Outlook Rule Cleaner
 
 REM VARIABLE FOR THE CONFIRMOPEN FUNCTION
 set counter=0
